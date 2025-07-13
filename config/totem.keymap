@@ -85,10 +85,10 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-                         &kp Q       &kp L       &kp U        &kp COMMA    &kp PERIOD       &kp F    &kp W        &kp R        &kp Y       &kp P
-                         &mt LGUI E  &mt LALT I  &mt LCTRL A  &mt LSHFT O  &kp MINUS        &kp K    &mt RSHFT T  &mt RCTRL N  &mt RALT S  &mt RGUI H
-&kp LANG_ZENKAKUHANKAKU  &kp Z       &kp X       &kp C        &kp V        &kp SEMICOLON    &kp G    &kp D        &kp M        &kp J       &kp B       &kp SLASH
-                                                 &kp DEL      &lt NAV TAB  &kp SPACE        &kp RET  &lt SYM ESC  &kp BSPC
+           &kp Q       &kp L       &kp U        &kp COMMA    &kp PERIOD       &kp F    &kp W        &kp R        &kp Y       &kp P
+           &mt LGUI E  &mt LALT I  &mt LCTRL A  &mt LSHFT O  &kp MINUS        &kp K    &mt RSHFT T  &mt RCTRL N  &mt RALT S  &mt RGUI H
+&kp GRAVE  &kp Z       &kp X       &kp C        &kp V        &kp SEMICOLON    &kp G    &kp D        &kp M        &kp J       &kp B       &kp SLASH
+                                   &kp DEL      &lt NAV TAB  &kp SPACE        &kp RET  &lt SYM ESC  &kp BSPC
             >;
         };
 
